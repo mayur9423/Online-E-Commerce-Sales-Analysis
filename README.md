@@ -1,5 +1,5 @@
 # Olist-E-commerce-Dashboard
-https://drive.google.com/drive/folders/1Qow2IAi6b9vBQ9cakem6vCUN87uMB9On?usp=sharing
+# link of drive 
 # 📊 Olist E-Commerce Power BI Dashboard
 
 ## 📌 Project Overview
@@ -172,7 +172,7 @@ This dashboard helps answer questions such as:
 The project documentation and related files are available through the following Google Drive folder:
 
 **Google Drive:**
-https://drive.google.com/drive/folders/1Qow2IAi6b9vBQ9cakem6vCUN87uMB9On?usp=sharing
+
 
 ---
 
